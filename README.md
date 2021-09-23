@@ -1,9 +1,8 @@
 # Prime Number Testing Exercises
 
-* [Bug Report](./bug_report.md)
-* [Setup](#Setup)
-* [Run Tests](#Run-Tests-and-Report-Code-Coverage)
-* [100% Code Coverage](#100%-Code-Coverage)
+I created a bug report based on the outputs I received with the different tests I ran and experimented with:
+
+🪲 [Bug Report](./bug_report.md) 🐛
 
 ## Setup
 - Python Version needs to be 3.7 or higher
